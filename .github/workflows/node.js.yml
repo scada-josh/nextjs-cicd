@@ -44,4 +44,4 @@ jobs:
       # run: npm run build --if-present
       run: npm run build
 
-    - run: pm2 reload actions
+#    - run: pm2 reload actions
